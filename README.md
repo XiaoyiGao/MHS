@@ -2,7 +2,8 @@
 Implementation of "**Multi-Hop Centralized Seeding Strategy for Influence Maximization in Information Limited Networks**"
 
 ## Code file
-**BA\ER.py**: generate corresponding random synthesis network.<br>
+**BA\ER.py**: 
+generate corresponding random synthesis network.<br>
 **data.py**: read txt files to build a network.<br>
 **network_message.py**: view node and edge information of the network.<br>
 **read.py\read_data.py\read_data_csv.py**: read test results.<br>
